@@ -4,6 +4,7 @@ This is a lazor project for Software Carpentry
 
 
 #code (following is how we design and edit the code)
+
 from itertools import permutations, combinations
 from PIL import Image, ImageDraw
 import matplotlib.pyplot as plt
@@ -11,6 +12,7 @@ import time
 
 
 class Lazor():
+
     '''
     *** CODE PROTOCOL ***
     This code manages all game-related data within "info_dict," a dictionary that stores necessary information for solving the puzzle.
