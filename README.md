@@ -6,8 +6,11 @@ This is a lazor project for Software Carpentry
 #code (following is how we design and edit the code)
 
 from itertools import permutations, combinations
+
 from PIL import Image, ImageDraw
+
 import matplotlib.pyplot as plt
+
 import time
 
 
