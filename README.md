@@ -75,7 +75,7 @@ To solve a puzzle using `mad_1.bff`, set the `filename` in `lazor.py` as `"mad_1
 This project uses custom logic to parse `.bff` files, configure laser paths, and calculate optimal block placements. Each level is unique, and the solution time may vary based on board complexity.
 
 ## 📷 Example Output
-![Example Solution](mad_1.png)  
+![Example Solution](results/mad_1.png)  
 
 This example shows the color-coded solution for a Lazor puzzle.
 
